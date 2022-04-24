@@ -30,7 +30,7 @@
 ### 2.2. Используемые технологии
 - Java 8
 - Spring Framework (Spring Boot, Spring Security, Spring Data JPA)
+- PostgreSQL
 - JavaScript ES6
 - HTML5
 - CSS
-
